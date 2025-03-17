@@ -1,2 +1,2 @@
 # Immortal
-Immortal Craft Resource Pack.
+Immortal Craft Resource Pack
